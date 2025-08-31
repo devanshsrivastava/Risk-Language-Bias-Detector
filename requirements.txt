@@ -1,0 +1,5 @@
+streamlit
+pypdf2
+plotly
+pandas
+ollama
